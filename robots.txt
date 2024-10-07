@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://geouposo.github.io/sitemap.html.gz
+Sitemap: https://geouposo.github.io/app/sitemap.html.gz
+Sitemap: https://geouposo.github.io/assets/sitemap.html.gz
+Sitemap: https://geouposo.github.io/css/sitemap.html.gz
+Sitemap: https://geouposo.github.io/data/sitemap.html.gz
+Sitemap: https://geouposo.github.io/includes/sitemap.html.gz
+Sitemap: https://geouposo.github.io/item/sitemap.html.gz
+Sitemap: https://geouposo.github.io/src/sitemap.html.gz
